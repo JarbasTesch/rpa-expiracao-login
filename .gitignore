@@ -1,0 +1,13 @@
+# Ignorar a pasta .idea (arquivos de configuração do IntelliJ/PyCharm)
+.idea/
+
+# Ignorar arquivos temporários e caches do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos de ambientes virtuais
+env/
+
+# Ignorar arquivos de configuração locais
+*.iml
